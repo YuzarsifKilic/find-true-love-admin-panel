@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://admin-backend-xxx.railway.app'  // ← Buraya admin-backend Railway URL'ini yaz
+    apiUrl: 'https://find-true-love-admin-backend-production.up.railway.app'
 };
